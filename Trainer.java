@@ -4,16 +4,21 @@ String dept="java";
 String institute="payilagam";
 private int salary=10000;
 
-int getSalary(){
-
-return salary;
-}
 Trainer(){
-    System.out.println("Trainer constuctor");
+    System.out.println("Trainer Constructor");
+}
 
+Trainer(String dept,String institute){
+    this.dept=dept;
+    this.institute=institute;
+}
+
+int getSalary(){
+     return salary;
 }
 void training(){
-    System.out.println("CSE")
+      System.out.println(this.dept);
+      System.out.println(this.institute);
 
 }
 
