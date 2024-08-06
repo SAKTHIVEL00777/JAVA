@@ -10,7 +10,7 @@ public static void main(String args[]){
    float f=456766754.745f;
    double d=8654567.86d;
    long set=9688764121L;
-   char c='s';
+   char c='S';
    String ss="collgge";
   
     System.out.println(no);
