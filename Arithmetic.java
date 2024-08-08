@@ -3,7 +3,7 @@ public class Arithmetic{
 public static void main(String args[]){
 
 int x=15;
-int y=3;
+int y=5;
 
 //int z=x+y;
 
