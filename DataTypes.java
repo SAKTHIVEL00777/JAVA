@@ -11,7 +11,7 @@ public static void main(String args[]){
    double d=8654567.86d;
    long set=9688764121L;
    char c='S';
-   String ss="WORLD";
+   String ss="COUNTRY";
   
     System.out.println(no);
     System.out.println(b);
